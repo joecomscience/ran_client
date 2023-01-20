@@ -1,0 +1,9 @@
+# unneeded folder
+
+[Cc]ache/
+[Rr]an[Oo]nline/
+
+*.exe
+*.pdb
+*.exp
+*.lib
